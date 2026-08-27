@@ -1,6 +1,6 @@
 {
   "name": "arcreel",
-  "description": "ArcReel external Agent setup and video workflow skills",
+  "description": "ArcReel 外部 Agent 接入与视频工作流 skills",
   "skills": [
     "./skills/setup-arcreel-skills",
     "./skills/video-workflow"
