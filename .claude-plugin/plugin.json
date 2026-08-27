@@ -1,0 +1,8 @@
+{
+  "name": "arcreel",
+  "description": "ArcReel external Agent setup and video workflow skills",
+  "skills": [
+    "./skills/setup-arcreel-skills",
+    "./skills/video-workflow"
+  ]
+}
